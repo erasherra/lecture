@@ -1,3 +1,6 @@
 # lecture
 can delete
-oii
+
+ok as your wish . :P
+
+tuleeko konflikteja
