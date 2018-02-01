@@ -2,6 +2,8 @@
 can delete
 tuleeko konflikteja
 
+ok as your wish . :P
+
 
 
 
@@ -13,4 +15,9 @@ tuleeko konflikteja
 
 
 pjgegig
->>>>>>> 955e9b5db704a98408cbfa14e55cc46b3336be6e
+
+tuleeko konflikteja
+
+
+Moikka ma olen sarita. olen Nepalilainen mutta Puhun vahan suomea.
+
